@@ -1,0 +1,111 @@
+
+** Locate **
+
+journey_id = 1
+
+** Locate **
+
+journey_id = 1
+
+** Locate **
+
+journey_id = 1
+
+** Locate **
+
+journey_id = 1
+
+ Journey: (1, 4, '2020-08-06 22:35:46.243042', 0)
+** Dropoff **
+
+** Dropoff **
+
+journey dropoff id =4
+ journey: (4, 4, '2020-08-08 22:03:11.090521', 2)
+** Unregister **
+
+removed journey: 4
+ assigned car: 2
+ waiting group: (5, 4, '2020-08-08 22:03:52.056289', None)
+** Locate **
+
+journey_id = 4
+
+** Locate **
+
+journey_id = 0
+
+ Journey: (0, 2, '2020-08-08 22:02:31.047127', 0)
+** Locate **
+
+journey_id = 1
+
+ Journey: (1, 1, '2020-08-08 22:02:40.449354', 0)
+** Locate **
+
+journey_id = 2
+
+ Journey: (2, 2, '2020-08-08 22:02:53.281976', 1)
+** Locate **
+
+journey_id = 3
+
+ Journey: (3, 3, '2020-08-08 22:03:02.652699', 1)
+** Locate **
+
+journey_id = 5
+
+ Journey: (5, 4, '2020-08-08 22:03:52.056289', 2)
+** Locate **
+
+journey_id = 6
+
+ Journey: (6, 2, '2020-08-08 22:04:01.104074', None)
+** Locate **
+
+journey_id = 
+
+** Locate **
+
+journey_id = 7
+
+ Journey: (7, 1, '2020-08-08 22:04:10.942980', 0)
+** Locate **
+
+journey_id = 8
+
+ Journey: (8, 1, '2020-08-08 22:04:16.768907', 1)
+** Dropoff **
+
+journey dropoff id =0
+ journey: (0, 2, '2020-08-08 22:02:31.047127', 0)
+** Unregister **
+
+removed journey: 0
+ assigned car: 0
+ waiting group: (6, 2, '2020-08-08 22:04:01.104074', None)
+** Locate **
+
+journey_id = 6
+
+ Journey: (6, 2, '2020-08-08 22:04:01.104074', 0)
+** Locate **
+
+journey_id = 1
+
+ Journey: (1, 1, '2020-08-11 20:33:19.615852', 0)
+** Locate **
+
+journey_id = 2
+
+ Journey: (2, 2, '2020-08-11 20:33:25.652163', 0)
+** Locate **
+
+journey_id = 1
+
+ Journey: (1, 2, '2020-08-11 20:37:52.324117', 0)
+** Locate **
+
+journey_id = 2
+
+ Journey: (2, 2, '2020-08-11 20:37:53.819526', 0)
