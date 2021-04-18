@@ -15,7 +15,7 @@ Subject: Hi there
 This message is sent from Python."""
 body = "This is an email with attachment sent from Python"
 
-password = "30031986Rm!"
+password = "****"
 
 message = MIMEMultipart("alternative")
 message["Subject"] = "multipart test"
